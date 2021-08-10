@@ -7,7 +7,7 @@
 На тестирование затрачено: 10 часов
 
 В результате тестирования выявлены следующие дефекты:
-* https://github.com/quechuloo/JavaBeginning/issues/1
+* [Карты вида American Express (AMEX), не проходят валидацию](https://github.com/quechuloo/JavaBeginning/issues/1)
 
 
 ## Описание процесса тестирования
