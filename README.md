@@ -2,7 +2,7 @@
 
 ## Проверить работу программы с разными тестовыми данными
 
-09/08/2021 - 10/08/2021 было проведено <перечисление видов тестирование> приложения <название приложения>.
+09/08/2021 - 10/08/2021 было проведено 11 тестирований в приложении *Intellij IDEA*.
 
 На тестирование затрачено: 10 часов
 
@@ -10,9 +10,9 @@
 * [Карты вида American Express (AMEX), не проходят валидацию](https://github.com/quechuloo/JavaBeginning/issues/1)
 
 
-## Описание процесса тестирования
 
-В процессе тестирования использовались следующие артефакты:
+
+## В процессе тестирования использовались следующие артефакты:
 * Test Plan
 1. Тестируем функциональность валидации номера банковской карты.
 2. Тестируем в IntelliJ IDEA
@@ -22,7 +22,7 @@
 
 
 
-В качестве тестовых данных использовались данные с сайта freeformatter.com:
+## В качестве тестовых данных использовались данные с сайта freeformatter.com:
 * VISA: 4662477486320345 - Result is OK Process finished with exit code 0
 * VISA: 4485570925564831 - Result is OK Process finished with exit code 0
 * MasterCard: 2221003788932963 - Result is OK Process finished with exit code 0
@@ -35,7 +35,7 @@
 * Maestro: 6304372174799919 - Result is OK Process finished with exit code 0
 * Maestro: 6763816857798170 - Result is OK Process finished with exit code 0
 
-Тестирование производилось в следующем окружении:
+## Тестирование производилось в следующем окружении:
 * Windows 10 Home 64 bits
 * openjdk version "11.0.11" 2021-04-20
 OpenJDK Runtime Environment AdoptOpenJDK-11.0.11+9 (build 11.0.11+9)
